@@ -48,5 +48,17 @@ const vaishnavi = {
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" />
 </p>
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaddam-vaishnavi&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌿 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaddam-vaishnavi&theme=react-dark&hide_border=true&area=true" />
+</p>
 ---
