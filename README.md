@@ -1,65 +1,66 @@
-<h1 align="center">
-  Hi I'm Vaishnavi 👋
-</h1>
+<h1 align="center">Hi 👋 I'm Vaishnavi</h1>
+
+<h3 align="center">CSE Student | Web Developer | DSA Learner | Mern Stack Developer | competitive Programmar</h3>
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=2500&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Competitive+Programmer;MERN+Stack+Developer;Frontend+Web+Developer;Hi+I'm+Vaishnavi+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Learner;Competitive+Programmer;Open+Source+Enthusiast" />
 </p>
 
 ---
 
-<h2 align="center">👩‍💻 Vaishnavi</h2>
+# 👩‍💻 About Me
 
-<h3 align="center">
-Computer Science Engineering Student | MERN Stack Developer | Competitive Programmer
-</h3>
-
----
-
-## 🙋‍♀ About Me
-
-```js
+```javascript
 const vaishnavi = {
-    college: "BTech Computer Science Engineering",
-    skills: ["HTML", "CSS", "JavaScript", "React", "Node.js"],
-    interests: ["Web Development", "DSA", "Competitive Programming"],
-    goal: "Become a Software Engineer"
+    degree: "BTech CSE",
+    skills: ["HTML", "CSS", "JavaScript", "React", "C++"],
+    currentlyLearning: "Full Stack Development",
+    goal: "Become Software Engineer"
 }
 ```
 
 ---
 
-## 🚀 Skills
+# 🚀 Skills
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,c,git,github,vscode" />
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Gaddam-vaishnavi&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaddam-vaishnavi&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaddam-vaishnavi&layout=compact&theme=tokyonight" />
 </p>
 
-<!--
-**Gaddam-vaishnavi/Gaddam-vaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🔥 Contribution Graph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Vaishnavi github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/vaishnavi-gaddam">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:gaddamvaishu.99@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
