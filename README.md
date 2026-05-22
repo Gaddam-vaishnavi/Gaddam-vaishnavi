@@ -95,7 +95,7 @@ const vaishnavi = {
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gaddam-vaishnavi/Gaddam-vaishnavi/output/github-contribution-grid-snake-dark.svg" />
