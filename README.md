@@ -1,13 +1,10 @@
 <div align="center">
-<div align="center">
 
-# Iam Vaishnavi 👋
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=32&pause=1000&color=006400&center=true&vCenter=true&width=750&lines=Iam+Vaishnavi+👋;Computer+Science+Engineering+Student;MERN+Stack+Developer;Problem+Solver;DSA+Learner+🚀" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=header&text=Vaishnavi&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
 # 🔒 Vaishnavi Gaddam
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=006400&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;MERN+Stack+Developer;Competitive+Programmer;Passionate+Web+Developer;Problem+Solver+%F0%9F%9A%80" alt="Typing SVG" />
 
 ![](https://komarev.com/ghpvc/?username=vaishnavi&color=006400&style=for-the-badge)
 ![](https://img.shields.io/github/followers/vaishnavi?color=006400&style=for-the-badge)
@@ -20,30 +17,7 @@
 
 - 🎓 Computer Science Engineering Student  
 - 💻 MERN Stack Developer  
-- ⚡ Competitive Programmer  
-- 🚀 Passionate about Web Development & Problem Solving  
-
----
-# 👋I'M Vaishnavi
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=header&text=vaishnavi&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-
-# 🔒 Vaishnavi Gaddam
-
-### Computer Science Engineering Student | MERN Stack Developer | Competitive Programmer
-
-![](https://komarev.com/ghpvc/?username=vaishnavi&color=39FF14&style=for-the-badge)
-![](https://img.shields.io/github/followers/vaishnavi?color=39FF14&style=for-the-badge)
-
-</div>
-
----
-
-# 🌤 About Me
-
-- 🎓 Computer Science Engineering Student  
-- 💻 MERN Stack Developer  
-- ⚡ Competitive Programmer  
-- 🚀 Passionate about Web Development & Problem Solving  
+- ⚡ Problem Solver  
+- 🚀 DSA Learner  
 
 ---
