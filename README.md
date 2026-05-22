@@ -8,8 +8,8 @@
 
 ### Computer Science Engineering Student | MERN Stack Developer | Competitive Programmer
 
-![](https://komarev.com/ghpvc/?username=vaishnavi&color=00008B&style=for-the-badge)
-![](https://img.shields.io/github/followers/vaishnavi?color=00008B&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=vaishnavi&color=39FF14&style=for-the-badge)
+![](https://img.shields.io/github/followers/vaishnavi?color=39FF14&style=for-the-badge)
 
 </div>
 
