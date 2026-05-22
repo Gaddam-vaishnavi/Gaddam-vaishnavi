@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">CSE Student | Web Developer | Competitive Programmer</h3>
+<h1 align="center">Hi 👋, I'm Vaishnavi Gaddam </h1>
+<h3 align="center">CSE Student | Web Developer | Competitive Programmer |  Problem Solver </h3>
 
 ---
 
 - 🌱 I’m currently learning MERN Stack
 - 💻 I love Web Development
 - ⚡ Competitive Programmer
-- 📫 Reach me at: yourmail@gmail.com
+- 📫 Reach me at: gaddamvaishu.99@gmail.com
 - 
 - ## 🚀 Tech Stack
 
