@@ -36,7 +36,7 @@ const vaishnavi = {
 
 ### 🌐 Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css" />
 </p>
 
 ### 🗄 Databases
