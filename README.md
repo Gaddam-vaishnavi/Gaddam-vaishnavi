@@ -16,11 +16,16 @@
 
 ---
 
-# 🌤 About Me
+<h2>🙋 About Me</h2>
 
-- 🎓 Computer Science Engineering Student  
-- 💻 MERN Stack Developer  
-- ⚡ Competitive Programmer  
-- 🚀 Passionate about Web Development & Problem Solving  
+```js
+const vaishnavi = {
+    role: "Computer Science Engineering Student",
+    focus: ["Web Development", "DSA", "Open Source"],
+    currentlyLearning: ["React", "Node.js", "Backend"],
+    portfolio: "Building Real World Projects",
+    languages: ["C", "C++", "JavaScript", "Python"],
+};
+```
 
 ---
