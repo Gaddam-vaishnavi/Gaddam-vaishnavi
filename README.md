@@ -24,7 +24,7 @@ const vaishnavi = {
     focus: ["Web Development", "DSA", "Open Source"],
     currentlyLearning: ["React", "Node.js", "Backend"],
     portfolio: "Building Real World Projects",
-    languages: ["C", "C++", "JavaScript", "Python"],
+    languages: ["C", "C++", "JavaScript", "Java"],
 };
 ```
 
