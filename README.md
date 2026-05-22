@@ -1,4 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center">CSE Student | Web Developer | Competitive Programmer</h3>
+
+---
+
+- 🌱 I’m currently learning MERN Stack
+- 💻 I love Web Development
+- ⚡ Competitive Programmer
+- 📫 Reach me at: yourmail@gmail.com
+- 
+- ## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nodejs,mongodb,git" />
+</p>
 
 <!--
 **Gaddam-vaishnavi/Gaddam-vaishnavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
