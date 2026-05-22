@@ -62,3 +62,42 @@ const vaishnavi = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaddam-vaishnavi&theme=react-dark&hide_border=true&area=true" />
 </p>
 ---
+
+# 🏅 Competitive Programming
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Gaddam_vaishnavi123?theme=dark&font=Nunito&ext=heatmap" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CodeChef-2★%20Programmer-brown?style=for-the-badge&logo=codechef" />
+  <img src="https://img.shields.io/badge/LeetCode-Solving%20Daily-orange?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Codeforces-Active-blue?style=for-the-badge&logo=codeforces" />
+</p>
+
+---
+
+# 💛 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/vaishnavi-gaddam">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://codechef.com/users/24211a05g0@bvrit.ac.in">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-brown?style=for-the-badge&logo=codechef" />
+  </a>
+
+  <a href="mailto:gaddamvaishu.99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gaddam-vaishnavi/Gaddam-vaishnavi/output/github-contribution-grid-snake-dark.svg" />
+</p>
+---
