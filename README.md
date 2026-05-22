@@ -27,5 +27,26 @@ const vaishnavi = {
     languages: ["C", "C++", "JavaScript", "Java"],
 };
 ```
+## 🛠 Tech Stack
+
+### 💬 Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,c,js" />
+</p>
+
+### 🌐 Web Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind" />
+</p>
+
+### 🗄 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ⚙ Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,docker" />
+</p>
 
 ---
