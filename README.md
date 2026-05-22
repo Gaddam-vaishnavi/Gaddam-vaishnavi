@@ -1,66 +1,25 @@
-<h1 align="center">Hi 👋 I'm Vaishnavi</h1>
+<div align="center">
 
-<h3 align="center">CSE Student | Web Developer | DSA Learner | Mern Stack Developer | competitive Programmar</h3>
+# ME
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=120&section=header&text=srivarshithagoli&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Learner;Competitive+Programmer;Open+Source+Enthusiast" />
-</p>
+# 🔒 Sri Varshitha
 
----
+### Computer Science Engineering Student | MERN Stack Developer | Competitive Programmer
 
-# 👩‍💻 About Me
+![](https://komarev.com/ghpvc/?username=srivarshithagoli&color=39FF14&style=for-the-badge)
+![](https://img.shields.io/github/followers/srivarshithagoli?color=39FF14&style=for-the-badge)
 
-```javascript
-const vaishnavi = {
-    degree: "BTech CSE",
-    skills: ["HTML", "CSS", "JavaScript", "React", "C++"],
-    currentlyLearning: "Full Stack Development",
-    goal: "Become Software Engineer"
-}
-```
+</div>
 
 ---
 
-# 🚀 Skills
+# 🌤 About Me
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,git,github,vscode" />
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gaddam-vaishnavi&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaddam-vaishnavi&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaddam-vaishnavi&layout=compact&theme=tokyonight" />
-</p>
+- 🎓 Computer Science Engineering Student  
+- 💻 MERN Stack Developer  
+- ⚡ Competitive Programmer  
+- 🚀 Passionate about Web Development & Problem Solving  
 
 ---
-
-# 🔥 Contribution Graph
-
-[![Vaishnavi github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/vaishnavi-gaddam">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:gaddamvaishu.99@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
----
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen)
