@@ -2,7 +2,7 @@
 
 # 👋I'M Vaishnavi
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00008B,000000&height=120&section=header&text=vaishnavi&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=141E30,243B55&height=120&section=header&text=vaishnavi&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
 # 🔒 Vaishnavi Gaddam
 
